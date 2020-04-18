@@ -15,7 +15,7 @@
 ## Агрегаторы
 * [RapidAPI](https://rapidapi.com/) – Единая точка входа для разных API. Клиент накликивает на сайте, что он хочет использовать, вставляет SDK в код и получает единую отчетность и единый счет за всё. Не надо подписывать десятки разных договоров, не надо пинать бухгалтерию каждую неделю по разным поводам, всё красиво и всё в одном месте.
 
-## Инструменты
+## Bash
 * [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) – фреймворк с открытым исходным кодом, разработанный энтузиастами и предназначенный для управления конфигурацией оболочки zsh. Zsh — интерактивная оболочка и мощный скриптовый язык. Репозиторий содержит плагины и темы для индивидуальной настройки zsh.
  
 ## Javascript
@@ -37,3 +37,6 @@
 * [Deep AI Nudity Detection API](https://deepai.org/machine-learning-model/nsfw-detector) – Detects the likelihood that an image contains nudity and should be considered NSFW. Returns a number between 0 and 1, with 1 being 100% likely to contain nudity and be NSFW.
 * [Imagga](https://imagga.com/solutions/adult-content-moderation.html) – Imagga’s Adult Image Content categorizer filters out NSFW images and helps you serve content that’s most appropriate for your audience.
 * [Nanonets](https://nanonets.com/content-moderation-api/) – The most comprehensive content moderation API on the Internet.
+
+## Email
+* [Mosaico](https://mosaico.io/) – Mosaico is the first open source email template editor proudly brought to you by VOXmail: it is powerful and free! The email template builder supports responsive design and live wysiwyg editing.
